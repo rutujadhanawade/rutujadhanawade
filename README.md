@@ -15,8 +15,6 @@
 
 - 🤝 I’m looking for partner to do compititive coding!
 
-- 👨‍💻 All of my projects are available at [portfolio link](portfolio link)
-
 - 📫 How to reach me: [HERE](rutuja.rd.01@gmail.com)
 
 - 😄 Pronouns: She/Her
