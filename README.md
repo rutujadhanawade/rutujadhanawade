@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **some cool projects (want to know more just contact me) & Improving my ds and algo**.
 
-- 🌱 I’m currently learning **the things which seems fascinating (currently deep learning).**
+- 🌱 I’m learning **the things which seems fascinating (currently deep learning).**
 
 - 👯 Always ready to collaborate on **Awesome projects on python, deep learning, NLP, web dev in django**
 
