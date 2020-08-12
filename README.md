@@ -11,12 +11,12 @@
 
 - 🌱 I’m learning **the things which seems fascinating (currently deep learning).**
 
-- 👯 Always ready to collaborate on **Awesome projects on python, deep learning, NLP, web dev in django**
+- 👯 Always ready to collaborate on **projects based on python, deep learning, NLP, web dev in django**
 
-- 🤝 I’m looking for partner to do compititive coding!
+<!-- 🤝 I’m looking for partner to do competitive coding! -->
 
-- 📫 How to reach me: [HERE](rutuja.rd.01@gmail.com)
-
+- 📫 How to reach me:- [here](rutuja.rd.01@gmail.com)
+ 
 - 😄 Pronouns: She/Her
 
 
