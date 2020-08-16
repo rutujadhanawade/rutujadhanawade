@@ -15,7 +15,7 @@
 
 <!-- 🤝 I’m looking for partner to do competitive coding! -->
 
-- 📫 How to reach me:- [here](mailto:rutuja.rd.01@gmail.com)
+- 📫 How to reach me:- [here](mailto:dhanawaderutuja1002@gmail.com)
  
 - 😄 Pronouns: She/Her
 
