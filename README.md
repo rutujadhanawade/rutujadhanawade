@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rutujadhanawade" alt="rutujadhanawade" /> </p>
 
-- 🔭 I’m currently working on **some cool projects (want to know more just contact me) & Improving my ds and algo**.
+- 🔭 I’m currently working on **Python projects & Improving my ds and algo**.
 
 - 🌱 I’m learning **the things which seems fascinating (currently deep learning).**
 
@@ -21,3 +21,6 @@
 
 
 
+ [![Rutuja's github stats](https://github-readme-stats.vercel.app/api?username=rutujadhanawade&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rutujadhanawade&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+ 
