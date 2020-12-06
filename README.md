@@ -7,9 +7,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rutujadhanawade" alt="rutujadhanawade" /> </p>
 
-- 🔭 I’m currently working on **Python projects & Improving my ds and algo**.
+- 🔭 I’m currently working on **My portfolio**.
 
-- 🌱 I’m learning **the things which seems fascinating (currently deep learning).**
+<!-- 🌱 I’m learning **** -->
 
 - 👯 Always ready to collaborate on **projects based on python, deep learning, NLP, web dev in django**
 
