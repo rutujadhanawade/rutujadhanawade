@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rutujadhanawade" alt="rutujadhanawade" /> </p>
 
-- 🔭 I’m currently working on **My portfolio**.
+- 🔭 I’m currently working on **[My portfolio](https://github.com/rutujadhanawade/Portfolio)**
 
 <!-- 🌱 I’m learning **** -->
 
