@@ -9,11 +9,11 @@
 
 - 🔭 I’m currently working on **[My portfolio](https://github.com/rutujadhanawade/Portfolio)**
 
-<!-- 🌱 I’m learning **** -->
+<!-- 🌱 I’m learning ****
 
-- 👯 Always ready to collaborate on **projects based on python, deep learning, NLP, web dev in django**
+- 👯 Always ready to collaborate
 
-- 😄 Pronouns: She/Her
+- 😄 Pronouns: She/Her-->
 
 
 <!-- 🤝 I’m looking for partner to do competitive coding! -->
