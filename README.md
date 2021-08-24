@@ -19,7 +19,7 @@
 <!-- 🤝 I’m looking for partner to do competitive coding! -->
 
 - 📫 How to reach me:-
-<a href="https://linkedin.com/in/rutuja-dhanawade-4a9272187" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg"  height="17" width="30" /></a>  [📫](mailto:dhanawaderutuja1002@gmail.com)
+<a href="https://linkedin.com/in/rutuja-dhanawade-4a9272187" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg"  height="17" width="30" /></a>  [📫](mailto:)
 
 
 ### Tech Stacks:
