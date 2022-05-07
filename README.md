@@ -2,24 +2,22 @@
 <!--
 **rutujadhanawade/rutujadhanawade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-<h1 align="center">Hi 👋, I'm Rutuja</h1>
-<h3 align="center">A passionate computer engineer from India</h3>
+<h1 align="center">Hey 👋</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rutujadhanawade" alt="rutujadhanawade" /> </p>
 
-- 🔭 I’m currently working on **[My portfolio](https://github.com/rutujadhanawade/Portfolio)**
+<!-- - 🔭 I’m currently working on **[My portfolio](https://github.com/rutujadhanawade/Portfolio)**
 
-<!-- 🌱 I’m learning ****
+ 🌱 I’m learning ****
 
 - 👯 Always ready to collaborate
 
 - 😄 Pronouns: She/Her-->
 
 
-<!-- 🤝 I’m looking for partner to do competitive coding! -->
-
+<!-- 🤝 I’m looking for partner to do competitive coding! 
 - 📫 How to reach me:-
-<a href="https://linkedin.com/in/rutuja-dhanawade-4a9272187" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg"  height="17" width="30" /></a>  [📫](mailto:)
+<a href="https://linkedin.com/in/rutuja-dhanawade-4a9272187" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg"  height="17" width="30" /></a>  [📫](mailto:)-->
 
 
 ### Tech Stacks:
