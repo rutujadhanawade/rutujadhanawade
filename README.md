@@ -24,7 +24,6 @@
 
 ![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5&logoColor=E34F26)
 ![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3&logoColor=1572B6)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=bootstrap&logoColor=563D7C)
 <img src="https://img.shields.io/badge/django%20-%23092E20.svg?&style=flat-square&logo=django"/>
 <img src="https://img.shields.io/badge/flask%20-%23000.svg?&style=flat-square&logo=flask"/>
@@ -39,7 +38,7 @@
 <img src="https://img.shields.io/badge/Keras-black.svg?&style=flat-square&logo=Keras&logoColor=D00000"/>
 <img src="https://img.shields.io/badge/pandas%20-black.svg?&style=flat-square&logo=pandas&logoColor=150458" />
 <img src="https://img.shields.io/badge/numpy%20-black.svg?&style=flat-square&logo=numpy&logoColor=013243" />
-
+![Spring](https://img.shields.io/badge/-Spring-black?style=flat-square&logo=SpringBoot)
 
  [![github stats](https://github-readme-stats.vercel.app/api?username=rutujadhanawade&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rutujadhanawade&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
